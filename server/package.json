@@ -1,0 +1,22 @@
+{
+  "name": "graphql-project",
+  "version": "1.0.0",
+  "description": "\"# graphql-project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ragare:estevia2020@github.com/ragare/graphql-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragare/graphql-project/issues"
+  },
+  "homepage": "https://github.com/ragare/graphql-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
