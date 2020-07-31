@@ -4,10 +4,6 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 dotenv.config();
 
-/*
-mongodb+srv://gquser:aritel2010@cluster0.hko9p.mongodb.net/gq-course?retryWrites=true&w=majority
-*/
-
 const app = express();
 const schema = require('./schema/schema');
 
